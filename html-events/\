@@ -1,0 +1,5 @@
+// Put all your JavaScript in this file!
+function colour(button)
+{var enter_color=prompt("enter a color");
+button.style.background-color=enter_color;
+}
